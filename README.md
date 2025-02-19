@@ -3,4 +3,4 @@
 ## Ma todo liste
 
 - [x] Créer le dépot
-- [ ] Modifier le fichier 'README.md'
+- [ ] Modifier le fichier principal
