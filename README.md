@@ -1,7 +1,3 @@
-# 2024-2025-4GP-BOIRON-HERNANDEZ
+# 4GP 2024/2025 - Projet capteur low-tech en graphite - Par Esther BOIRON et Margot HERNANDEZ
 
-## Ma todo liste
-
-- [x] Créer le dépot
-- [ ] Modifier le fichier principal
-- [ ] Encore une modif locale pour tester
+## Table des matières
