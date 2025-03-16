@@ -1,6 +1,6 @@
 # 4GP 2024/2025 - Projet *capteur low-tech* en graphite - Par Esther BOIRON et Margot HERNANDEZ
 
-<img src="Images/image-capteur-graphite.PNG" alt="Image capteur" width="300">
+<img src="Images/image-capteur-graphite.PNG" alt="Image capteur" width="200">
 
 ## Table des matières
 * [Contacts](#contacts)
@@ -17,20 +17,37 @@
 [8. Datasheet du capteur](#8--datasheet-du-capteur)
 * [Conclusion](#conclusion)
 ------------
-## Contacts  
+## Contacts
 Esther BOIRON : eboiron@insa-toulouse.fr  
-Margot HERNANDEZ : mhernan2@insa-toulouse.fr  
+Margot HERNANDEZ : mhernan2@insa-toulouse.fr
+
 ------------
 ## Contexte
-Lien du site des capteurs Low Tech : [capteur-low-tech-graphite](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418)
+Dans le cadre de l'UF de quatrième année du département Génie Physique intitulé *Du capteur au banc de test*, nous avons conçu puis évalué la performance d'un capteur *low tech* en graphite. Il s'agit d'un capteur très simple consitué d'un morceau de papier recouvert d'une trace de crayon à papier formant une fine couche de graphite. 
+
+Ce travail se base sur des études de chercheurs américain (Cheng-Wei Lin*, Zhibo Zhao*, Jaemyung Kim & Jiaxing Huang) qui publient en 2020 l'article [Pencil Drawn Strain Gauges and Chemiresistors on Paper](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418).
+
+ [capteur-low-tech-graphite](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418)
+
+------------
 ## Livrable
+------------
 ## Matériel requis
+------------
 ## Simulation sous LTSpice
+------------
 ## Design du PCB sous Kicad
+------------
 ## Code sur Arduino
+------------
 ## Application Android
+------------
 ## Réalisation du shield
+------------
 ## Banc de test
+------------
 ## Résultats
+------------
 ## Datasheet du capteur
+------------
 ## Conclusion
