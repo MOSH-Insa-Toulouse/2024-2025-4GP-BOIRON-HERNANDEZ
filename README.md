@@ -3,49 +3,34 @@
 <img src="Divers/SchemaCapteur.png" alt="Visuel capteur" width="300">
 
 ## Table des matières
-
 * [Contacts](#contacts)
 * [Contexte](#contexte)
-* [Livrables](#livrables)
+* [Livrable](#livrable)
 * [Matériel requis](#matériel-requis)
 [1. Simulation sous LTSpice](#1--simulation-sous-ltspice)
 [2. Design du PCB sous Kicad](#2--design-du-pcb-sous-kicad)
 [3. Code sur Arduino](#3--code-sur-arduino)
-
-
-- [Application Android](#application-android)
-- [Réalisation du shield](#réalisation-du-shield)
-- [Banc de test](#banc-de-test)
-- [Résultats](#résultats)
-- [Datasheet du capteur](#datasheet-du-capteur)
-- [Conclusion](#conclusion)
-* [Conclusion](#conclusion) 
+[4. Application Android](#4--application-android)
+[5. Réalisation du shield](#5--réalisation-du-shield)
+[6. Banc de test](#6--banc-de-test)
+[7. Résultats](#7--résultats)
+[8. Datasheet du capteur](#8--datasheet-du-capteur)
+* [Conclusion](#conclusion)
 ------------
-# Contacts 
+## Contacts 
 Esther BOIRON : eboiron@insa-toulouse.fr  
 Margot HERNANDEZ : mhernan2@insa-toulouse.fr  
 ------------
-# Contexte
-
-# Livrable
-
-# Matériel requis
-
-# Simulation sous LTSpice
-
+## Contexte
+Lien du site des capteurs Low Tech : [capteur-low-tech-graphite](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418)
+## Livrable
+## Matériel requis
+## Simulation sous LTSpice
 # Design du PCB sous Kicad
-
-# Code sur Arduino
-# Application Android
-# Réalisation du shield
-# Banc de test
-# Résultats
-# Datasheet du capteur
-# Conclusion
-
-__test écriture en gras__
-*test en gras* 
-test  
-de saut de ligne
-> test citation
-> `ceci est du code`
+## Code sur Arduino
+## Application Android
+## Réalisation du shield
+## Banc de test
+## Résultats
+## Datasheet du capteur
+## Conclusion
