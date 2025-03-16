@@ -6,7 +6,7 @@
 * [Contacts](#contacts)
 * [Contexte](#contexte)
 * [Livrable](#livrable)
-* [Matériel requis](#matériel-requis)
+* [Matériel requis](#matériel-requis) <br>
 [1. Simulation sous LTSpice](#1--simulation-sous-ltspice) <br>
 [2. Design du PCB sous Kicad](#2--design-du-pcb-sous-kicad) <br>
 [3. Code sur Arduino](#3--code-sur-arduino) <br>
