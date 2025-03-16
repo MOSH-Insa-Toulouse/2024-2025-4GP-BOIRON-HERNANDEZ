@@ -25,9 +25,9 @@ Margot HERNANDEZ : mhernan2@insa-toulouse.fr
 ## Contexte
 Dans le cadre de l'UF de quatrième année du département Génie Physique intitulé *Du capteur au banc de test*, nous avons conçu puis évalué la performance d'un capteur *low tech* en graphite. Il s'agit d'un capteur très simple consitué d'un morceau de papier recouvert d'une trace de crayon à papier formant une fine couche de graphite. 
 
-Ce travail se base sur des études de chercheurs américain (Cheng-Wei Lin*, Zhibo Zhao*, Jaemyung Kim & Jiaxing Huang) qui publient en 2020 l'article [Pencil Drawn Strain Gauges and Chemiresistors on Paper](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418).
+Ce travail se base sur des études de chercheurs américain (Cheng-Wei Lin*, Zhibo Zhao*, Jaemyung Kim & Jiaxing Huang) qui publient en 2014 l'article [Pencil Drawn Strain Gauges and Chemiresistors on Paper](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418).
 
- [capteur-low-tech-graphite](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418)
+Vous trouverez ici tout ce qui a été fait dans le cadre de ce projet.
 
 ------------
 ## Livrable
