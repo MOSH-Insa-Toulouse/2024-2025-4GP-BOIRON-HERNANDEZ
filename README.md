@@ -8,23 +8,40 @@
 * [Contexte](#contexte)
 * [Livrable](#librable)
 * [Matériel requis](#matériel-requis)
-1. Simulation sous LTSpice
-2. Design du PCB sous Kicad
-3. Code sous Arduino IDE
-4. Application Android
-5. Réalisation du shield
-6. Banc de test et résultats
-7. Datasheet du capteur
-* Conclusion et analyse critique du projet  
+- [4GP 2024/2025 - Projet capteur low-tech en graphite - Par Esther BOIRON et Margot HERNANDEZ](#4gp-20242025---projet-capteur-low-tech-en-graphite---par-esther-boiron-et-margot-hernandez)
+  - [Table des matières](#table-des-matières)
+- [Contacts](#contacts)
+  - [Margot HERNANDEZ : mhernan2@insa-toulouse.fr](#margot-hernandez--mhernan2insa-toulousefr)
+- [Contexte](#contexte)
+- [Livrable](#livrable)
+- [Matériel requis](#matériel-requis)
+- [Simulation sous LTSpice](#simulation-sous-ltspice)
+- [Design du PCB sous Kicad](#design-du-pcb-sous-kicad)
+- [Code sur Arduino](#code-sur-arduino)
+- [Application Android](#application-android)
+- [Réalisation du shield](#réalisation-du-shield)
+- [Banc de test](#banc-de-test)
+- [Résultats](#résultats)
+- [Datasheet du capteur](#datasheet-du-capteur)
+- [Conclusion](#conclusion)
+* [Conclusion](#conclusion) 
 ------------
-## Contacts 
-
+# Contacts 
 Esther BOIRON : eboiron@insa-toulouse.fr  
 Margot HERNANDEZ : mhernan2@insa-toulouse.fr  
 ------------
 # Contexte
-
-Livrable
+# Livrable
+# Matériel requis
+# Simulation sous LTSpice
+# Design du PCB sous Kicad
+# Code sur Arduino
+# Application Android
+# Réalisation du shield
+# Banc de test
+# Résultats
+# Datasheet du capteur
+# Conclusion
 
 __test écriture en gras__
 *test en gras* 
