@@ -7,17 +7,17 @@
 * [Contexte](#contexte)
 * [Livrable](#livrable)
 * [Matériel requis](#matériel-requis)
-[1. Simulation sous LTSpice](#1--simulation-sous-ltspice)
-[2. Design du PCB sous Kicad](#2--design-du-pcb-sous-kicad)
-[3. Code sur Arduino](#3--code-sur-arduino)
-[4. Application Android](#4--application-android)
-[5. Réalisation du shield](#5--réalisation-du-shield)
-[6. Banc de test](#6--banc-de-test)
-[7. Résultats](#7--résultats)
+[1. Simulation sous LTSpice](#1--simulation-sous-ltspice) <br>
+[2. Design du PCB sous Kicad](#2--design-du-pcb-sous-kicad) <br>
+[3. Code sur Arduino](#3--code-sur-arduino) <br>
+[4. Application Android](#4--application-android) <br>
+[5. Réalisation du shield](#5--réalisation-du-shield) <br>
+[6. Banc de test](#6--banc-de-test) <br>
+[7. Résultats](#7--résultats) <br>
 [8. Datasheet du capteur](#8--datasheet-du-capteur)
 * [Conclusion](#conclusion)
 ------------
-## Contacts 
+## Contacts  
 Esther BOIRON : eboiron@insa-toulouse.fr  
 Margot HERNANDEZ : mhernan2@insa-toulouse.fr  
 ------------
@@ -26,7 +26,7 @@ Lien du site des capteurs Low Tech : [capteur-low-tech-graphite](https://moodle.
 ## Livrable
 ## Matériel requis
 ## Simulation sous LTSpice
-# Design du PCB sous Kicad
+## Design du PCB sous Kicad
 ## Code sur Arduino
 ## Application Android
 ## Réalisation du shield
