@@ -3,9 +3,9 @@
 <img src="Images/image-capteur-graphite.PNG" alt="Image capteur" width="200">
 
 ## Table des matières
-* [Contacts](#contacts) <br>
-* [Contexte](#contexte) <br>
-* [Livrable](#livrable) <br>
+* [Contacts](#contacts) 
+* [Contexte](#contexte) 
+* [Livrable](#livrable) 
 * [Matériel requis](#matériel-requis) <br>
 [1. Simulation sous LTSpice](#1--simulation-sous-ltspice) <br>
 [2. Design du PCB sous Kicad](#2--design-du-pcb-sous-kicad) <br>
@@ -14,7 +14,7 @@
 [5. Réalisation du shield](#5--réalisation-du-shield) <br>
 [6. Banc de test](#6--banc-de-test) <br>
 [7. Résultats](#7--résultats) <br>
-[8. Datasheet du capteur](#8--datasheet-du-capteur) <br>
+[8. Datasheet du capteur](#8--datasheet-du-capteur) 
 * [Conclusion](#conclusion)
 ------------
 ## Contacts
@@ -50,5 +50,6 @@ Vous trouverez ici tout ce qui a été fait dans le cadre de ce projet.
 ------------
 ## Datasheet du capteur
 Vous pouvez trouver la datasheet du capteur ici. (mettre lien du PDF)
+
 ------------
 ## Conclusion
