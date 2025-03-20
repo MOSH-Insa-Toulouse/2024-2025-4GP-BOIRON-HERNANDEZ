@@ -7,14 +7,14 @@
 * [Contexte](#contexte) 
 * [Livrable](#livrable) 
 * [Matériel requis](#matériel-requis) <br>
-<summary> [1. Simulation sous LTSpice](#1--simulation-sous-ltspice) <br>
-<summary> [2. Design du PCB sous Kicad](#2--design-du-pcb-sous-kicad) <br>
-[3. Code sur Arduino](#3--code-sur-arduino) <br>
-[4. Application Android](#4--application-android) <br>
-[5. Réalisation du shield](#5--réalisation-du-shield) <br>
-[6. Banc de test](#6--banc-de-test) <br>
-[7. Résultats](#7--résultats) <br>
-[8. Datasheet du capteur](#8--datasheet-du-capteur) 
+* [1. Simulation sous LTSpice](#1--simulation-sous-ltspice) <br>
+* [2. Design du PCB sous Kicad](#2--design-du-pcb-sous-kicad) <br>
+* [3. Code sur Arduino](#3--code-sur-arduino) <br>
+* [4. Application Android](#4--application-android) <br>
+* [5. Réalisation du shield](#5--réalisation-du-shield) <br>
+* [6. Banc de test](#6--banc-de-test) <br>
+* [7. Résultats](#7--résultats) <br>
+* [8. Datasheet du capteur](#8--datasheet-du-capteur) 
 * [Conclusion](#conclusion)
 ------------
 ## Contacts
@@ -23,11 +23,11 @@ Margot HERNANDEZ : mhernan2@insa-toulouse.fr
 
 ------------
 ## Contexte
-Dans le cadre de l'UF de quatrième année du département Génie Physique intitulé *Du capteur au banc de test*, nous avons conçu puis évalué la performance d'un capteur *low tech* en graphite. Il s'agit d'un capteur très simple consitué d'un morceau de papier recouvert d'une trace de crayon à papier formant une fine couche de graphite. 
+Dans le cadre de l’UF de quatrième année du département Génie Physique intitulée *Du capteur au banc de test*, nous avons développé et évalué la performance d’un capteur low-tech en graphite. Il est constitué d’un simple morceau de papier recouvert d’une trace de crayon à papier, formant une fine couche de graphite. Lorsque le papier se déforme, le nombre de particules de graphite reliées varie, entraînant une modification de la résistance du capteur. Ce phénomène permet ainsi de mesurer la déformation, à la manière d’une jauge de contrainte traditionnelle.
 
-Ce travail se base sur des études de chercheurs américain (Cheng-Wei Lin*, Zhibo Zhao*, Jaemyung Kim & Jiaxing Huang) qui publient en 2014 l'article [Pencil Drawn Strain Gauges and Chemiresistors on Paper](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418).
+Ce travail s’appuie sur les recherches de scientifiques américains (Cheng-Wei Lin*, Zhibo Zhao*, Jaemyung Kim & Jiaxing Huang), qui ont publié en 2014 l’article [Pencil Drawn Strain Gauges and Chemiresistors on Paper](https://moodle.insa-toulouse.fr/mod/resource/view.php?id=60418).
 
-Vous trouverez ici tout ce qui a été fait dans le cadre de ce projet.
+Vous trouverez ici l’ensemble des réalisations effectuées dans le cadre de ce projet : simulations électroniques, conception du PCB, programmation Arduino, développement d’une application Android et élaboration d’une datasheet.
 
 ------------
 ## Livrable
