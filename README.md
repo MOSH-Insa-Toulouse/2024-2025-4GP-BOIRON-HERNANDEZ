@@ -34,13 +34,33 @@ Vous trouverez ici l’ensemble des réalisations effectuées dans le cadre de c
 Plusieurs livrables sont attendus :
 
 ✓ Un shield PCB connecté à une carte Arduino UNO, intégrant : un capteur en graphite, un montage amplificateur transimpédance, un module Bluetooth, un écran OLED, un encodeur rotatif, un potentiomètre numérique ainsi qu'un capteur de flexion (flex sensor).<br>
+
 ✓ Un code Arduino assurant le contrôle de l’ensemble des composants et la réalisation des mesures.<br>
+
 ✓ Une application Android servant d’interface entre le PCB et le code Arduino.<br>
+
 ✓ Un code Arduino dédié aux essais du capteur sur le banc de test.<br>
+
 ✓ Une datasheet détaillant les caractéristiques du capteur en graphite.<br>
 
 ------------
 ## Matériel requis
+Afin de réaliser notre dispositif, voici la liste des composants nécessaires :
+
+Pour le montage amplificateur transimpédance :
+
+* Des résistances : 1 de 1 kΩ, 1 de 10 kΩ, 2 de 100 kΩ
+* Un potentiomètre numérique : ici, le MCP41050
+* Des condensateurs : trois de 100 nF et un de 1 μF
+* Un amplificateur opérationnel : ici, le LTC1050
+
+Pour le reste du dispositif :
+* Un module Bluetooth : ici, le HC05
+* Un écran OLED : ici, un écran de dimensions 128x64
+* Un encodeur rotatif
+* Un capteur de flexion (flex sensor)
+* Une résistance de 47 kΩ
+* Une carte Arduino UNO
 ------------
 ## Simulation sous LTSpice
 ------------
