@@ -40,11 +40,11 @@ Plusieurs livrables sont attendus :
   * un écran OLED,
   * un encodeur rotatif,
   * un potentiomètre numérique,
-  * un capteur de flexion (flex sensor).  
-✓ **Un code Arduino assurant le contrôle de l’ensemble des composants et la réalisation des mesures.  
-✓ **Une application Android servant d’interface entre le PCB et le code Arduino.  
-✓ **Un code Arduino dédié aux essais du capteur sur le banc de test.  
-✓ **Une datasheet détaillant les caractéristiques du capteur en graphite  
+  * un capteur de flexion (flex sensor).<br>
+✓ Un code Arduino assurant le contrôle de l’ensemble des composants et la réalisation des mesures.<br>
+✓ Une application Android servant d’interface entre le PCB et le code Arduino.<br>
+✓ Un code Arduino dédié aux essais du capteur sur le banc de test.<br>
+✓ Une datasheet détaillant les caractéristiques du capteur en graphite.<br>
 
 ------------
 ## Matériel requis
