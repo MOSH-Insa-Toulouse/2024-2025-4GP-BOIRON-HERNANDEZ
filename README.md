@@ -33,14 +33,7 @@ Vous trouverez ici l’ensemble des réalisations effectuées dans le cadre de c
 ## Livrable
 Plusieurs livrables sont attendus :
 
-✓ Un shield PCB connecté à une carte Arduino UNO, intégrant :<br>
-  * un capteur en graphite,
-  * un montage amplificateur transimpédance,
-  * un module Bluetooth,
-  * un écran OLED,
-  * un encodeur rotatif,
-  * un potentiomètre numérique,
-  * un capteur de flexion (flex sensor).<br>
+✓ Un shield PCB connecté à une carte Arduino UNO, intégrant : un capteur en graphite, un montage amplificateur transimpédance, un module Bluetooth, un écran OLED, un encodeur rotatif, un potentiomètre numérique ainsi qu'un capteur de flexion (flex sensor).<br>
 ✓ Un code Arduino assurant le contrôle de l’ensemble des composants et la réalisation des mesures.<br>
 ✓ Une application Android servant d’interface entre le PCB et le code Arduino.<br>
 ✓ Un code Arduino dédié aux essais du capteur sur le banc de test.<br>
